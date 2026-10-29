@@ -8,7 +8,7 @@ import NurseDashboard from "../pages/nurse/NurseDashboard.jsx";
 import DoctorDashboard from "../pages/doctor/DoctorDashboard.jsx";
 import AdminDashboard from "../pages/admin/AdminDashboard.jsx";
 import AdminSymptoms from "../pages/admin/AdminSymptoms.jsx";
-import AdminDailyCap from "../pages/admin/AdminDailyCap.jsx";
+import AdminDailyCap from "../pages/admin/adminDailyCap.jsx";
 import AdminStaff from "../pages/admin/AdminStaff.jsx";
 
 const AppRoutes = () => {
